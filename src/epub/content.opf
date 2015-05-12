@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/oscar-wilde/the-picture-of-dorian-gray</dc:identifier>
 		<dc:date>2014-05-25T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">2015-04-10T21:54:19Z</meta>
+		<meta property="dcterms:modified">2015-05-12T05:38:31Z</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
 		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
@@ -37,6 +37,7 @@
 		<meta property="se:word-count">79824</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Picture_of_Dorian_Gray</meta>
 		<meta property="se:production-notes">Italics have been removed from some foreign words that are today known to modern readers and are found in Merriam-Webster. (Chef, debut, ennui, cafe, etc.)</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/oscar-wilde_the-picture-of-dorian-gray</meta>
 		<dc:creator id="author">Oscar Wilde</dc:creator>
 		<meta property="file-as" refines="#author">Wilde, Oscar</meta>
 		<meta property="se:url.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Oscar_Wilde</meta>
