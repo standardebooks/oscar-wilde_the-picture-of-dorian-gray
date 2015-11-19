@@ -33,3 +33,8 @@ b{
 *[epub|type~="z3998:verse"] br{
 	display: none;
 }
+
+p span.i1{
+	text-indent: -1em;
+	padding-left: 2em;
+}
