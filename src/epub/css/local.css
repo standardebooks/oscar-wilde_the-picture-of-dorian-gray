@@ -7,11 +7,6 @@
 	text-align: right;
 }
 
-b{
-	font-weight: normal;
-	font-variant: small-caps;
-}
-
 [epub|type~="z3998:poem"] p,
 [epub|type~="z3998:verse"] p{
 	text-align: left;
