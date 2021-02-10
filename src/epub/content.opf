@@ -39,7 +39,7 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2010107729</meta>
 		<meta property="se:subject">Fiction</meta>
-		<meta id="collection-1" property="belongs-to-collection">The Guardian’s best 100 novels in English (2015)</meta>
+		<meta id="collection-1" property="belongs-to-collection">The Guardian’s Best 100 Novels in English (2015)</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">27</meta>
 		<dc:description id="description">A Victorian dandy turns to a life of debauchery after a magical portrait stops him from aging.</dc:description>
